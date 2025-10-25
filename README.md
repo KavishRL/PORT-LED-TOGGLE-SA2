@@ -2,6 +2,7 @@
 SKILL ASSIGNMENT-2
 
 NAME: KAVISH RAJESHKUMAR
+
 REGNO: 212224060120
 
 PROGRAM: Write an assembly language program in 8051 to generate a 50 ms delay using Timer 0 in Mode 2 (8-bit auto-reload mode) and blink an LED connected to Port 3.0.
